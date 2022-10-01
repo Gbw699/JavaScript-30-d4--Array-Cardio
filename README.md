@@ -1,0 +1,1 @@
+Ejercicios sobre el uso de métodos en listas (utilizando la consola), del curso JavaScript 30 days challenge, día 4.
